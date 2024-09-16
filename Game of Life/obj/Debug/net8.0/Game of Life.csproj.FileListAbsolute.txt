@@ -1,0 +1,14 @@
+/home/lun/development/Game of Life/Game of Life/bin/Debug/net8.0/Game of Life
+/home/lun/development/Game of Life/Game of Life/bin/Debug/net8.0/Game of Life.deps.json
+/home/lun/development/Game of Life/Game of Life/bin/Debug/net8.0/Game of Life.runtimeconfig.json
+/home/lun/development/Game of Life/Game of Life/bin/Debug/net8.0/Game of Life.dll
+/home/lun/development/Game of Life/Game of Life/bin/Debug/net8.0/Game of Life.pdb
+/home/lun/development/Game of Life/Game of Life/obj/Debug/net8.0/Game of Life.GeneratedMSBuildEditorConfig.editorconfig
+/home/lun/development/Game of Life/Game of Life/obj/Debug/net8.0/Game of Life.AssemblyInfoInputs.cache
+/home/lun/development/Game of Life/Game of Life/obj/Debug/net8.0/Game of Life.AssemblyInfo.cs
+/home/lun/development/Game of Life/Game of Life/obj/Debug/net8.0/Game of Life.csproj.CoreCompileInputs.cache
+/home/lun/development/Game of Life/Game of Life/obj/Debug/net8.0/Game of Life.dll
+/home/lun/development/Game of Life/Game of Life/obj/Debug/net8.0/refint/Game of Life.dll
+/home/lun/development/Game of Life/Game of Life/obj/Debug/net8.0/Game of Life.pdb
+/home/lun/development/Game of Life/Game of Life/obj/Debug/net8.0/Game of Life.genruntimeconfig.cache
+/home/lun/development/Game of Life/Game of Life/obj/Debug/net8.0/ref/Game of Life.dll
